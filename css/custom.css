@@ -1,17 +1,15 @@
 
 
-.container {
+.container1 {
     border: solid 1px green;
     width: 100%;
     max-width: 1100px;
-    
+    background-color: rgb(255, 255, 255);
     margin-left: auto;
     margin-right: auto;
-    background-color: #ccc;
     height: 800px;
 }
 
-#header {
-    height: 120px;
-    background-color: blue;
+.logo {
+    padding: 50px 2px 30px 2px;
 }
