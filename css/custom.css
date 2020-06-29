@@ -26,12 +26,22 @@ body > a {
 .dog-img {
     padding: 4px;
     border: solid 1px #9d9d9d;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
 }
 
 /* FOOTER */
 .footer-custom {
     background-color: rgb(69, 72, 75);
+    padding-top: 10px;
+}
+
+.footer-custom > hr {
+    background-color: #afb2b3;
+}
+
+.footer-links-top > h6 {
+    color: #afb2b3;
+    margin-left: 24px;
 }
 
 .footer-custom ul {
